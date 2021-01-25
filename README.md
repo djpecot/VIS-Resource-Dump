@@ -1,5 +1,6 @@
 # VIS Resource Dump
  A repo full of fantastic resources for becoming a life-long learner!
+ Current Students and VIS Alum are welcom to leave a pull request with useful resources :)
 
 ## Arduino Resources
 
