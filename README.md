@@ -7,13 +7,9 @@
 
 #### Getting started:
 
-<ul>
-<li>[Paul's Arduino Playlist](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)</li>
-<li>[Official Arduino Project Hub](https://create.arduino.cc/projecthub)</li>
-<li>Third item</li>
-<li>Fourth item</li>
-</ul>
+[Paul's Arduino Playlist](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
 
+[Official Arduino Project Hub](https://create.arduino.cc/projecthub)
 
 #### Advanced Arduino Hacking and Usage:
 
